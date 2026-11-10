@@ -1,5 +1,7 @@
 # Reboot Syndicate — Lead Rescue
 
+![Lead Rescue — Turn Missed Calls Into Jobs](assets/lead-rescue-cover.jpg)
+
 A runnable missed-call lead capture and review-request **MVP**. Includes a responsive multi-tenant dashboard, lead pipeline, conversation history, consent recording, Twilio inbound voice/SMS webhooks with signature validation, STOP/START handling, simulated SMS, and manual review-request sending. **Not a complete billing / AI receptionist platform**: subscriptions, AI triage, automatic reminders, multi-location user management, recording retrieval, and message status callbacks are future work.
 
 ## Local run with Docker
